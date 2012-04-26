@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTest", "WebApiTest\WebApiTest.csproj", "{7D8092AD-ADA3-40AC-8CDC-A3C8A761103A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8092AD-ADA3-40AC-8CDC-A3C8A761103A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8092AD-ADA3-40AC-8CDC-A3C8A761103A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8092AD-ADA3-40AC-8CDC-A3C8A761103A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8092AD-ADA3-40AC-8CDC-A3C8A761103A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
